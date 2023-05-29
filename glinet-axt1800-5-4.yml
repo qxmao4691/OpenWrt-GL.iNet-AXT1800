@@ -58,6 +58,7 @@ packages:
   - luci-theme-argon
   - luci-app-argon-config
   - luci-app-openclash
+  - luci-app-ssr
   - luci-app-zerotier
   - luci-app-openvpn
   - luci-app-unblockmusic
