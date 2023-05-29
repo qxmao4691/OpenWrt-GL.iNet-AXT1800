@@ -66,13 +66,14 @@ packages:
   - luci-theme-argon
   - luci-app-argon-config
   - luci-app-openclash
-  - luci-app-passwall
   - luci-app-zerotier
   - luci-app-openvpn
   - luci-app-unblockmusic
   - luci-app-pushbot
   - luci-app-aliyundrive-webdav
   - luci-app-turboacc
+  - luci-app-ssr
+  - luci-app-passwall
 diffconfig: |
   CONFIG_PACKAGE_wpad-basic=n
   CONFIG_PACKAGE_wpad=n
